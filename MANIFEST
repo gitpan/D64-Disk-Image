@@ -1,6 +1,8 @@
+Changes
 Image.xs
 MANIFEST
 Makefile.PL
+README
 diskimage.c
 diskimage.h
 lib/D64/Disk/Image.pm
